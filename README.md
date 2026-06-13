@@ -14,7 +14,7 @@ A Claude Code / Codex shell skill for Apple Reminders via `osascript`. Safe date
 **[anchor](https://github.com/Goofbol/anchor)**
 A tribute site for my father's retirement from the Indian Navy after 33 years of service. Built with care.
 
-**Proddy** *(in progress)*
+**[Proddy](https://github.com/Goofbol/proddy)**
 A personal AI agent for product work — triage, meeting notes, specs, follow-ups. Built for how a PM actually works, not how the demos say they should.
 
 ---
